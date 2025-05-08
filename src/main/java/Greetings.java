@@ -10,6 +10,7 @@ public final class Greetings {
         MESSAGES.add("Hello from the teacher!");
         // students add exactly one line each:
         // MESSAGES.add("Hola — Alice P.");
+        MESSAGES.add("Hello-DarionP.");
     }
 
     /** Returns an unmodifiable view of the greetings list. */
